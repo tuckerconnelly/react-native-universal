@@ -1,0 +1,30 @@
+{
+  "name": "react-native-universal",
+  "version": "0.0.1",
+  "description": "Auto switching between react-native-web and react-native",
+  "main": "index.js",
+  "scripts": {
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "peerDependencies": {
+    "react-native": "",
+    "react-native-web": ""
+  },
+  "author": "Tucker Connelly",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tuckerconnelly/react-native-universal.git"
+  },
+  "tags": [
+    "react"
+  ],
+  "keywords": [
+    "react",
+    "react-native",
+    "web"
+  ]
+}
