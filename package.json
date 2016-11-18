@@ -10,8 +10,8 @@
   "devDependencies": {
   },
   "peerDependencies": {
-    "react-native": "",
-    "react-native-web": ""
+    "react-native": ">=0.0.0",
+    "react-native-web": "tuckerconnelly/react-native-web"
   },
   "author": "Tucker Connelly",
   "license": "MIT",
