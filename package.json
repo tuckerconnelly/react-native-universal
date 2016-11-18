@@ -1,14 +1,11 @@
 {
   "name": "react-native-universal",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Auto switching between react-native-web and react-native",
   "main": "index.js",
-  "scripts": {
-  },
-  "dependencies": {
-  },
-  "devDependencies": {
-  },
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {},
   "peerDependencies": {
     "react-native": ">=0.0.0",
     "react-native-web": "tuckerconnelly/react-native-web"
